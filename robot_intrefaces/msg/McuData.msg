@@ -1,0 +1,1 @@
+string mcu_str_data
